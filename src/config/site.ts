@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.roblox.com/games/18512318831/Undertale-Adventures-X",
     youtube: "https://www.youtube.com/results?search_query=Undertale+Adventures+X",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "ja", "pt-BR"],
   defaultLocale: "en",
 };

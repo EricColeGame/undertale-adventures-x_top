@@ -24,7 +24,7 @@
   ],
   "shortcuts": [
     { "name": "Codes", "short_name": "Codes", "url": "/en/codes" },
-    { "name": "Tier List", "short_name": "Tier List", "url": "/en/tier-list" },
+    { "name": "Tier List", "short_name": "Tier List", "url": "/en/mechanics/undertale-adventures-x-unit-tier-list" },
     { "name": "Beginner Guide", "short_name": "Guide", "url": "/en/guide" }
   ]
 }
