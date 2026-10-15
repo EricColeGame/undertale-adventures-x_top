@@ -25,12 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Codes, Unit Tier List, Traits & Beginner Guides",
   description: "Your ultimate guide to Undertale Adventures X on Roblox! Explore active working codes, unit tier lists, traits, best units, beginner guides and progression tips for the Undertale-themed tower defense.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://undertale-adventures-x.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://undertale-adventures-x.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@undertale-adventures-x.top",
   gameUrl: "https://www.roblox.com/games/18512318831/Undertale-Adventures-X",
   heroVideoId: "azOxiat3JpU", // Undertale Adventures X gameplay & unit showcase
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.roblox.com/games/18512318831/Undertale-Adventures-X",
+    youtube: "https://www.youtube.com/results?search_query=Undertale+Adventures+X",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
