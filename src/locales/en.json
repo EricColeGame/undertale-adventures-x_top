@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core deploy, upgrade, and defend loop, then pick a practical early-game path before chasing rare units."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "All Codes",
+          "description": "Redeem MOREFREESTUFF and every future Undertale Adventures X code for free Souls, Trait Rerolls, and Gaster Hands."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Starter Units",
+          "description": "Balance area damage, single-target boss killing, and front-line units so your first runs stop leaking waves."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Undertale Adventures X."
+          "title": "How to Evolve",
+          "description": "Turn Souls and unit materials into permanent power spikes with the evolution path instead of temporary leveling."
         }
       ]
     },
@@ -66,73 +66,73 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Active Codes",
+        "Unit Tier List",
+        "Best Starter Units",
+        "Evolution Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "The core deploy, upgrade, and farm loop that carries your first dozen Undertale Adventures X runs.",
+          "href": "/guide/undertale-adventures-x-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Working Undertale Adventures X codes and rewards, with redemption and troubleshooting steps.",
+          "href": "/codes/undertale-adventures-x-codes"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Unit Tier List",
+          "description": "Sans, Asriel, Mettaton NEO, and the rest of the roster ranked by the job each unit actually fills.",
+          "href": "/mechanics/undertale-adventures-x-unit-tier-list"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Best Starter Units",
+          "description": "Affordable early units and the role balance that keeps a fresh team defending the lane.",
+          "href": "/mechanics/undertale-adventures-x-best-starter-units"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Evolution Guide",
+          "description": "How leveling, evolution, and trait rerolls stack, and where to spend Souls without wasting them.",
+          "href": "/mechanics/undertale-adventures-x-evolution-guide"
+        },
+        {
+          "badge": "New",
+          "title": "All Units",
+          "description": "A browsable look at the playable Undertale-inspired roster and the role each character covers.",
+          "href": "/characters/undertale-adventures-x-all-units"
+        },
+        {
+          "badge": "New",
+          "title": "Endless Mode",
+          "description": "Wave scaling, team comps, and traits for pushing Undertale Adventures X endless runs deeper.",
+          "href": "/modes/undertale-adventures-x-endless-mode"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Update Schedule",
+          "description": "How patches, balance passes, and code drops change what your roster should be chasing.",
+          "href": "/progression/undertale-adventures-x-update-schedule"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Corridor Guide",
+          "description": "Neutral Corridor Act 1 team comp, leader buff, and economy plan for a clean clear.",
+          "href": "/modes/undertale-adventures-x-corridor-guide"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Undertale Adventures X?",
       "paragraphs": [
-        "Undertale Adventures X is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Undertale Adventures X is a Roblox tower defense game from Side Productions that rebuilds the Underground and its cast as deployable units. You place characters along a lane, they attack incoming monster waves automatically, and you spend in-match currency to upgrade them before enemies reach your base.",
+        "Between runs you collect permanent resources, summon new units with Souls, evolve them into stronger forms, and reroll traits to raise their ceiling. Our wiki covers every system with codes, unit tier lists, evolution breakdowns, and step-by-step progression guides."
       ],
       "stats": [
         {
@@ -145,158 +145,271 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tower Defense"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Released",
+          "value": "Jul 16, 2024"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Total Visits",
+          "value": "17.7M+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Server Size",
+          "value": "15 Players"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Positive Rating",
+          "value": "93%"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Undertale Adventures X Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Dive into Undertale Adventures X with working codes, a unit tier list, evolution and trait guides, beginner walkthroughs, and progression tips for this Roblox tower defense game.",
       "modules": [
         {
           "order": 1,
-          "name": "Undertale Adventures X Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
+          "name": "Undertale Adventures X Codes",
+          "description": "Redeem the latest working codes for free Souls, Trait Rerolls, and Gaster Hands, and learn how to claim them before they expire.",
           "href": "/codes/undertale-adventures-x-codes",
-          "displayType": "code-box",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "COMING-SOON — No active codes currently available"
+              "label": "MOREFREESTUFF",
+              "detail": "25x Trait Rerolls, 3 Gaster Hands, 1,000x Souls",
+              "badge": "Working"
             },
             {
-              "label": "Code",
-              "detail": "STAY-TUNED — Check back soon for new codes"
+              "label": "Gaster Hands",
+              "detail": "Rare bonus item bundled with the code, so check your inventory after redeeming",
+              "badge": "Rare"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Redeem",
+              "detail": "Open the Codes button in the main lobby, enter the code, then confirm to claim",
+              "badge": "How To"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/undertale-adventures-x-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Undertale Adventures X Tier List",
+          "description": "Unit rankings by the job each character fills, from area damage and boss killing to crowd control and front-line survival.",
+          "href": "/mechanics/undertale-adventures-x-unit-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Sans, Asriel, Mettaton NEO, Undyne the Undying, Papyrus - top band for their role"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Asgore, Muffet, Mettaton EX - the named backups when an S-tier pick is missing"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Temmie and Greater Dog - early and situational picks with a defined window"
+            },
+            {
+              "label": "C",
+              "detail": "Starter and role-filler coverage that clears the opening acts, then rotates out"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/undertale-adventures-x-tier-list",
-          "displayType": "tier-grid",
+          "name": "Undertale Adventures X Beginner Guide",
+          "description": "A step-by-step early-game walkthrough covering deployment, upgrades, farming routes, traits, and summoning priorities.",
+          "href": "/guide/undertale-adventures-x-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Deploy for coverage, not raw numbers, and overlap the main enemy path"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Upgrade your best damage dealer before adding new units to the board"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Farm stages you can clear comfortably to fund the next round of upgrades"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Push one stage at a time and fix the specific gap that fails your run"
+            },
+            {
+              "label": "5",
+              "detail": "Roll traits only after your core team is stable enough to keep"
+            },
+            {
+              "label": "6",
+              "detail": "Redeem codes early for free Souls and Trait Rerolls to speed up the start"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/undertale-adventures-x-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Undertale Adventures X Best Units",
+          "description": "Notable units compared by damage potential, combat role, and how well they fit a balanced Undertale Adventures X team.",
+          "href": "/mechanics/undertale-adventures-x-best-starter-units",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Sans",
+              "detail": "Area damage and crowd control, the classic answer to grouped waves"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Asriel",
+              "detail": "Flexible area damage that stays useful against packs and bosses alike"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Mettaton",
+              "detail": "Premier single-target boss killer for high-health enemies"
+            },
+            {
+              "label": "Undyne",
+              "detail": "Durable front-line damage that holds while the backline works"
+            },
+            {
+              "label": "Papyrus",
+              "detail": "Late-game crowd control and scaling damage for the later acts"
+            },
+            {
+              "label": "Asgore",
+              "detail": "Tank and single-target melee, the backup for the front-line slot"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/undertale-adventures-x-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Undertale Adventures X Traits Guide",
+          "description": "How unit traits and rerolls raise a unit's ceiling, which traits to keep for each role, and how to spend rare rerolls without waste.",
+          "href": "/mechanics/undertale-adventures-x-evolution-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Rerolls",
+              "detail": "Reroll a unit's traits to push its stats higher, and unlike evolution it is repeatable"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Damage",
+              "detail": "Keep traits that raise damage, attack speed, or range on your carries"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Utility",
+              "detail": "Keep effect duration and reach on buffers, and reroll off-stat rolls"
+            },
+            {
+              "label": "Economy",
+              "detail": "Speed up early income, then drop the trait once the unit leaves rotation"
+            },
+            {
+              "label": "Shiny",
+              "detail": "Shiny variants multiply stats, so a strong trait can still beat a weak shiny"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/undertale-adventures-x-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Undertale Adventures X Units and Characters",
+          "description": "A browsable look at the playable Undertale-inspired roster, with the role and acquisition notes for each character.",
+          "href": "/characters/undertale-adventures-x-all-units",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Sans",
+              "detail": "Area damage and crowd control that anchors the top band of the roster"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Papyrus",
+              "detail": "Late-game scaling and control tied to the Snowdin banner"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Temmie",
+              "detail": "Cheap early glass cannon that clears the opening acts"
+            },
+            {
+              "label": "Undyne",
+              "detail": "Durable front-line damage for holding a lane under pressure"
+            },
+            {
+              "label": "Muffet",
+              "detail": "Crowd control that slows large groups for your area damage"
+            },
+            {
+              "label": "GreaterDog",
+              "detail": "Low-damage tank for when no front-line option is available"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Undertale Adventures X Game Modes",
+          "description": "The main story chapters, Raids, Corridor, Endless, and Genocide acts explained so you can pick content that fits your current team.",
+          "href": "/modes/undertale-adventures-x-endless-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Story",
+              "detail": "Main Underground chapters with first-clear rewards and region unlocks"
+            },
+            {
+              "label": "Raids",
+              "detail": "Act 1 to Act 3 boss challenges that pay out Tokens for roster progression"
+            },
+            {
+              "label": "Corridor",
+              "detail": "Neutral Corridor Act 1 rewards range and leader-buff planning"
+            },
+            {
+              "label": "Endless",
+              "detail": "Scaling waves that test your roster, traits, and decisions under pressure"
+            },
+            {
+              "label": "Genocide",
+              "detail": "Harder Snowdin and Hotland Act 6 variants built for finished teams"
+            },
+            {
+              "label": "AFK",
+              "detail": "Park in the AFK Chamber between sessions for passive resources"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Undertale Adventures X Progression Guide",
+          "description": "How to strengthen your roster through leveling, Souls, evolution, and sensible upgrade priorities without wasting rare materials.",
+          "href": "/progression/undertale-adventures-x-fastest-way-to-evolve-units",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Bank a reserve of Souls before a new banner or content drop arrives"
+            },
+            {
+              "label": "2",
+              "detail": "Level units inside their current form before paying for evolution"
+            },
+            {
+              "label": "3",
+              "detail": "Evolve only the units you are committed to keeping in the main team"
+            },
+            {
+              "label": "4",
+              "detail": "Spend Trait Rerolls on established core units, not placeholders"
+            },
+            {
+              "label": "5",
+              "detail": "Farm Raids for Tokens and park in the AFK Chamber for passive gains"
+            },
+            {
+              "label": "6",
+              "detail": "Re-evaluate the roster after every balance pass or content update"
             }
           ]
         }
@@ -308,23 +421,27 @@
       "items": [
         {
           "question": "What is Undertale Adventures X?",
-          "answer": "Undertale Adventures X is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Undertale Adventures X is a free-to-play Roblox tower defense game from Side Productions. You defend a base from monster waves using Undertale-inspired units, then upgrade them, evolve them, and roll traits to clear harder chapters."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What is the only working Undertale Adventures X code right now?",
+          "answer": "MOREFREESTUFF is the single active Undertale Adventures X code. It grants 25x Trait Rerolls, 3 Gaster Hands, and 1,000x Souls. Codes can expire within hours of release, so redeem anything new the day you find it."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I redeem Undertale Adventures X codes?",
+          "answer": "Stay in the main lobby, click the Codes button, type the code exactly as shown, and confirm. Press Enter on PC, A on Xbox, X on PlayStation, or tap outside the box on mobile to claim the rewards."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which units are best in Undertale Adventures X?",
+          "answer": "Community tier lists put Sans, Asriel, Mettaton NEO, Undyne the Undying, and Papyrus in the top band for their roles. Asgore, Muffet, and Mettaton EX are the named backups if you are missing an S-tier pick."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is Undertale Adventures X free to play?",
+          "answer": "Yes. Undertale Adventures X is a free Roblox experience, and any spending beyond that is optional, such as the gamepass that boosts Token yields from Raids mode."
+        },
+        {
+          "question": "How often does Undertale Adventures X update?",
+          "answer": "Undertale Adventures X has no published schedule. Emergency hotfixes arrive quickly, while balance passes and content drops are developer-driven and often tied to events, milestones, or community feedback."
         }
       ]
     },
