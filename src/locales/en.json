@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "modes": "Modes",
+    "codes": "Codes",
+    "progression": "Progression"
   },
   "home": {
     "meta": {
@@ -401,7 +407,7 @@
             },
             {
               "label": "4",
-              "detail": "Spend Trait Rerolls on established core units, not placeholders"
+              "detail": "Spend Trait Rerolls on established core units rather than temporary filler units"
             },
             {
               "label": "5",
@@ -452,7 +458,30 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Undertale Adventures X Guides",
+    "overviewDescription": "Step-by-step Undertale Adventures X guides for new and returning players: the in-game tutorial, beginner progression, evolution farming, mythic summons, meta teams, and every Corridor and Raid act."
+  },
+  "characters": {
+    "overviewTitle": "Undertale Adventures X Units & Characters",
+    "overviewDescription": "Every Undertale Adventures X unit in one place, from Sans and Papyrus showcases to Corridor Dust Sans, Delta Sans evolution, and Possession Sans Overgrowth, with roles and evolution paths."
+  },
+  "mechanics": {
+    "overviewTitle": "Undertale Adventures X Mechanics",
+    "overviewDescription": "How Undertale Adventures X actually works: trait rerolls, evolution items, summon odds, shiny units, limited units, Battlepass Towers, and the current unit tier list."
+  },
+  "modes": {
+    "overviewTitle": "Undertale Adventures X Game Modes",
+    "overviewDescription": "Break down every Undertale Adventures X mode, including Corridor acts, Endless Mode, Raid Act 1 to Act 3, and the Genocide stages in Snowdin and Hotland."
+  },
+  "codes": {
+    "overviewTitle": "Undertale Adventures X Codes",
+    "overviewDescription": "The full Undertale Adventures X code list with reported rewards, plus how to redeem codes in Roblox and what to do when a code has already expired."
+  },
+  "progression": {
+    "overviewTitle": "Undertale Adventures X Progression",
+    "overviewDescription": "Plan your Undertale Adventures X progression: the best team setups, the fastest way to evolve units, how to clear stages without limited units, and the update schedule."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -481,12 +510,12 @@
     "playGame": "Play Undertale Adventures X",
     "officialDiscord": "Roblox Community",
     "officialYoutube": "YouTube Videos",
-    "vvBuilder": "Unit Tier List",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "unitGuides": "Units & Characters",
+    "tierList": "Unit Tier List",
+    "gameModes": "Game Modes",
+    "codes": "Codes"
   }
 }
