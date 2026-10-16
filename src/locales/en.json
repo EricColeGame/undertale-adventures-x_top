@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "modes": "Modes",
+    "codes": "Codes",
+    "progression": "Progression"
   },
   "home": {
     "meta": {
@@ -452,12 +458,30 @@
       "secondary": "Play on Roblox"
     }
   },
-  "guide": {},
-  "characters": {},
-  "mechanics": {},
-  "modes": {},
-  "codes": {},
-  "progression": {},
+  "guide": {
+    "overviewTitle": "Undertale Adventures X Guides",
+    "overviewDescription": "Step-by-step Undertale Adventures X guides for the fights that block most players, from the beginner route and Neutral Corridor Act 1 to Last Corridor, Hard Mode, and the full mythic evolution chain."
+  },
+  "characters": {
+    "overviewTitle": "Undertale Adventures X Units & Characters",
+    "overviewDescription": "Every Undertale Adventures X unit in one place: full roster roles, evolution paths, showcases, and trait advice for Sans, Corridor Dust Sans, Core Sans, Delta Sans, Swap Papyrus, and the rest of the Underground cast."
+  },
+  "mechanics": {
+    "overviewTitle": "Undertale Adventures X Mechanics & Traits",
+    "overviewDescription": "Understand the systems behind Undertale Adventures X: evolution and souls, shiny and limited units, summon odds and rerolls, the unit tier list, battlepass towers, and the starter units worth building first."
+  },
+  "modes": {
+    "overviewTitle": "Undertale Adventures X Game Modes",
+    "overviewDescription": "Clear every Undertale Adventures X mode: Corridor runs, Raid Act 1-3, Snowdin and Hotland Act 6 Genocide, and Endless Mode, with the teams and upgrade order that each one demands."
+  },
+  "codes": {
+    "overviewTitle": "Undertale Adventures X Codes",
+    "overviewDescription": "All active Undertale Adventures X codes with the free souls, rerolls, and trait rewards they grant, plus how to redeem them and how to tell a live code from an expired one."
+  },
+  "progression": {
+    "overviewTitle": "Undertale Adventures X Progression",
+    "overviewDescription": "Long-term Undertale Adventures X progression: the fastest way to evolve units, best team builds, no-limited-units clears, and the update schedule that decides when to save or spend your souls."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
