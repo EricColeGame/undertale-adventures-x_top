@@ -1,1 +1,521 @@
-{}
+{
+  "site": {
+    "name": "Undertale Adventures X Wiki",
+    "shortName": "Undertale Adventures X",
+    "tagline": "Códigos, tier list de unidades, traços e guias para iniciantes",
+    "description": "Seu guia definitivo de Undertale Adventures X no Roblox! Explore códigos ativos, tier lists de unidades, traços, melhores unidades, guias para iniciantes e dicas de progressão para este tower defense com tema de Undertale.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guia",
+    "characters": "Personagens",
+    "mechanics": "Mecânicas",
+    "modes": "Modos",
+    "codes": "Códigos",
+    "progression": "Progressão"
+  },
+  "home": {
+    "meta": {
+      "title": "Undertale Adventures X Wiki — Códigos, unidades e tier list",
+      "description": "Encontre códigos de Undertale Adventures X, tier lists de unidades, traços, guias para iniciantes e dicas de progressão para este jogo de tower defense do Roblox. Explore unidades e melhorias."
+    },
+    "hero": {
+      "eyebrow": "Tower defense com tema de Undertale",
+      "title": "Undertale Adventures X Wiki",
+      "description": "Defenda sua base das ondas de monstros neste jogo de tower defense do Roblox. Invoque unidades inspiradas em Undertale, suba o nível do seu time, melhore os traços e avance por fases desafiadoras.",
+      "stats": [
+        "Mais de 17,7 mi de visitas",
+        "Lançamento em 16 de julho de 2024",
+        "Tower defense do Roblox",
+        "Unidades com tema de Undertale"
+      ],
+      "primaryCta": "Guia para iniciantes",
+      "secondaryCta": "Tier list de unidades",
+      "tertiaryCta": "Códigos ativos",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Undertale Adventures X",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda o ciclo básico de posicionar, melhorar e defender, e escolha um caminho de início prático antes de correr atrás de unidades raras."
+        },
+        {
+          "number": "2",
+          "title": "Todos os códigos",
+          "description": "Resgate o MOREFREESTUFF e todos os futuros códigos de Undertale Adventures X para ganhar Almas, Rerolls de Traço e Mãos de Gaster grátis."
+        },
+        {
+          "number": "3",
+          "title": "Melhores unidades iniciais",
+          "description": "Equilibre dano em área, eliminação de chefes e unidades de linha de frente para que suas primeiras partidas parem de vazar ondas."
+        },
+        {
+          "number": "4",
+          "title": "Como evoluir",
+          "description": "Transforme Almas e materiais de unidade em picos de poder permanentes com a evolução, em vez de level temporário."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta",
+      "quickLinks": [
+        "Códigos ativos",
+        "Tier list de unidades",
+        "Melhores unidades iniciais",
+        "Guia de evolução"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "O ciclo básico de posicionar, melhorar e farmar que sustenta suas primeiras dezenas de partidas em Undertale Adventures X.",
+          "href": "/guide/undertale-adventures-x-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos ativos",
+          "description": "Códigos de Undertale Adventures X que funcionam e suas recompensas, com passos de resgate e solução de problemas.",
+          "href": "/codes/undertale-adventures-x-codes"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Tier list de unidades",
+          "description": "Sans, Asriel, Mettaton NEO e o resto do elenco classificados pela função que cada unidade realmente cumpre.",
+          "href": "/mechanics/undertale-adventures-x-unit-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Melhores unidades iniciais",
+          "description": "Unidades iniciais acessíveis e o equilíbrio de funções que mantém um time novo defendendo a rota.",
+          "href": "/mechanics/undertale-adventures-x-best-starter-units"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia de evolução",
+          "description": "Como level, evolução e rerolls de traço se acumulam, e onde gastar Almas sem desperdiçá-las.",
+          "href": "/mechanics/undertale-adventures-x-evolution-guide"
+        },
+        {
+          "badge": "Novo",
+          "title": "Todas as unidades",
+          "description": "Um passeio pelo elenco jogável inspirado em Undertale e pela função que cada personagem cobre.",
+          "href": "/characters/undertale-adventures-x-all-units"
+        },
+        {
+          "badge": "Novo",
+          "title": "Modo infinito",
+          "description": "Escalonamento de ondas, composições de time e traços para levar as runs infinitas de Undertale Adventures X mais longe.",
+          "href": "/modes/undertale-adventures-x-endless-mode"
+        },
+        {
+          "badge": "Popular",
+          "title": "Calendário de atualizações",
+          "description": "Como patches, ajustes de balanceamento e novos códigos mudam o que seu elenco deve buscar.",
+          "href": "/progression/undertale-adventures-x-update-schedule"
+        },
+        {
+          "badge": "Novo",
+          "title": "Guia do Corredor",
+          "description": "Composição de time, buff de líder e plano de economia do Ato 1 do Corredor Neutro para um clear limpo.",
+          "href": "/modes/undertale-adventures-x-corridor-guide"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Undertale Adventures X?",
+      "paragraphs": [
+        "Undertale Adventures X é um jogo de tower defense do Roblox da Side Productions que reconstrói o Subterrâneo e seu elenco como unidades posicionáveis. Você coloca personagens ao longo de uma rota, eles atacam automaticamente as ondas de monstros que chegam, e você gasta a moeda da partida para melhorá-los antes que os inimigos alcancem sua base.",
+        "Entre partidas você junta recursos permanentes, invoca novas unidades com Almas, evolui elas para formas mais fortes e rerolla traços para elevar o teto delas. Nossa wiki cobre todos os sistemas com códigos, tier lists de unidades, detalhamentos de evolução e guias de progressão passo a passo."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedora",
+          "value": "Side Productions"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Tower defense"
+        },
+        {
+          "label": "Lançamento",
+          "value": "16 de julho de 2024"
+        },
+        {
+          "label": "Visitas totais",
+          "value": "17.7M+"
+        },
+        {
+          "label": "Tamanho do servidor",
+          "value": "15 jogadores"
+        },
+        {
+          "label": "Avaliação positiva",
+          "value": "93%"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a wiki de Undertale Adventures X",
+      "description": "Mergulhe em Undertale Adventures X com códigos que funcionam, uma tier list de unidades, guias de evolução e traços, tutoriais para iniciantes e dicas de progressão para este jogo de tower defense do Roblox.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Undertale Adventures X",
+          "description": "Resgate os códigos mais recentes que funcionam para ganhar Almas, Rerolls de Traço e Mãos de Gaster grátis, e aprenda a resgatá-los antes que expirem.",
+          "href": "/codes/undertale-adventures-x-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "MOREFREESTUFF",
+              "detail": "25 rerolls de traço, 3 Mãos de Gaster e 1.000 Almas",
+              "badge": "Funcionando"
+            },
+            {
+              "label": "Gaster Hands",
+              "detail": "Item bônus raro incluído no código, então confira o inventário depois de resgatar",
+              "badge": "Raro"
+            },
+            {
+              "label": "Resgatar",
+              "detail": "Abra o botão de Códigos no lobby principal, digite o código e confirme para resgatar",
+              "badge": "Como fazer"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Tier list de Undertale Adventures X",
+          "description": "Ranking de unidades pela função que cada personagem cumpre, de dano em área e eliminação de chefes a controle de grupo e sobrevivência na linha de frente.",
+          "href": "/mechanics/undertale-adventures-x-unit-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Sans, Asriel, Mettaton NEO, Undyne the Undying e Papyrus — a faixa mais alta em suas funções"
+            },
+            {
+              "label": "A",
+              "detail": "Asgore, Muffet e Mettaton EX — as substituições nomeadas quando falta um pick de tier S"
+            },
+            {
+              "label": "B",
+              "detail": "Temmie e Greater Dog — escolhas iniciais e situacionais com uma janela bem definida"
+            },
+            {
+              "label": "C",
+              "detail": "Cobertura inicial e de preenchimento de função que limpa os primeiros atos e depois sai de rotação"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia para iniciantes de Undertale Adventures X",
+          "description": "Um passo a passo do início do jogo cobrindo posicionamento, melhorias, rotas de farm, traços e prioridades de invocação.",
+          "href": "/guide/undertale-adventures-x-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Posicione por cobertura, não por números brutos, e sobreponha o caminho principal dos inimigos"
+            },
+            {
+              "label": "2",
+              "detail": "Melhore sua melhor fonte de dano antes de colocar novas unidades no tabuleiro"
+            },
+            {
+              "label": "3",
+              "detail": "Farme fases que você limpa com folga para bancar a próxima rodada de melhorias"
+            },
+            {
+              "label": "4",
+              "detail": "Avance uma fase por vez e corrija a lacuna específica que faz sua run falhar"
+            },
+            {
+              "label": "5",
+              "detail": "Só rerolle traços depois que o time principal estiver estável o bastante para ser mantido"
+            },
+            {
+              "label": "6",
+              "detail": "Resgate os códigos cedo para ganhar Almas e Rerolls de Traço grátis e acelerar o começo"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Melhores unidades de Undertale Adventures X",
+          "description": "Unidades notáveis comparadas por potencial de dano, função em combate e o quanto encaixam em um time equilibrado de Undertale Adventures X.",
+          "href": "/mechanics/undertale-adventures-x-best-starter-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sans",
+              "detail": "Dano em área e controle de grupo, a resposta clássica para ondas agrupadas"
+            },
+            {
+              "label": "Asriel",
+              "detail": "Dano em área flexível que continua útil tanto contra grupos quanto contra chefes"
+            },
+            {
+              "label": "Mettaton",
+              "detail": "Principal eliminador de chefes de alvo único para inimigos com muita vida"
+            },
+            {
+              "label": "Undyne",
+              "detail": "Dano de linha de frente resistente que segura enquanto a retaguarda trabalha"
+            },
+            {
+              "label": "Papyrus",
+              "detail": "Controle de grupo e dano escalável do fim de jogo para os atos finais"
+            },
+            {
+              "label": "Asgore",
+              "detail": "Tanque e corpo a corpo de alvo único, o reserva para a vaga de linha de frente"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de traços de Undertale Adventures X",
+          "description": "Como traços e rerolls elevam o teto de uma unidade, quais traços manter em cada função e como gastar rerolls raros sem desperdício.",
+          "href": "/mechanics/undertale-adventures-x-evolution-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rerolls",
+              "detail": "Rerolle os traços de uma unidade para elevar os atributos e, ao contrário da evolução, isso pode ser repetido"
+            },
+            {
+              "label": "Dano",
+              "detail": "Mantenha traços que aumentam dano, velocidade de ataque ou alcance nas suas carregadoras"
+            },
+            {
+              "label": "Utilidade",
+              "detail": "Mantenha duração e alcance de efeito nos buffers, e rerolle os rolls que não somam atributos"
+            },
+            {
+              "label": "Economia",
+              "detail": "Acelere a renda inicial e depois descarte o traço quando a unidade sair de rotação"
+            },
+            {
+              "label": "Shiny",
+              "detail": "Variantes shiny multiplicam os atributos, então um traço forte ainda pode superar um shiny fraco"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Unidades e personagens de Undertale Adventures X",
+          "description": "Um passeio pelo elenco jogável inspirado em Undertale, com a função e as notas de obtenção de cada personagem.",
+          "href": "/characters/undertale-adventures-x-all-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sans",
+              "detail": "Dano em área e controle de grupo que ancora a faixa mais alta do elenco"
+            },
+            {
+              "label": "Papyrus",
+              "detail": "Escalonamento e controle do fim de jogo ligados ao banner de Snowdin"
+            },
+            {
+              "label": "Temmie",
+              "detail": "Canhão de vidro barato do início que limpa os primeiros atos"
+            },
+            {
+              "label": "Undyne",
+              "detail": "Dano de linha de frente resistente para segurar uma rota sob pressão"
+            },
+            {
+              "label": "Muffet",
+              "detail": "Controle de grupo que desacelera grupos grandes para o seu dano em área"
+            },
+            {
+              "label": "GreaterDog",
+              "detail": "Tanque de pouco dano para quando não há opção de linha de frente"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Modos de jogo de Undertale Adventures X",
+          "description": "Os capítulos da história principal, as Raids, o Corredor, o Infinito e os atos de Genocídio explicados para você escolher o conteúdo que combina com seu time atual.",
+          "href": "/modes/undertale-adventures-x-endless-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "História",
+              "detail": "Capítulos principais do Subterrâneo com recompensas de primeiro clear e liberação de regiões"
+            },
+            {
+              "label": "Raids",
+              "detail": "Desafios de chefe do Ato 1 ao Ato 3 que rendem Tokens para a progressão do elenco"
+            },
+            {
+              "label": "Corredor",
+              "detail": "Uma rota longa e estreita onde alcance vence dano bruto e o buff de líder do Mettaton NEO sustenta o clear"
+            },
+            {
+              "label": "Infinito",
+              "detail": "Ondas escalonadas que testam seu elenco, seus traços e suas decisões sob pressão"
+            },
+            {
+              "label": "Genocídio",
+              "detail": "Variantes mais difíceis de Snowdin e Hotland Ato 6 feitas para times prontos"
+            },
+            {
+              "label": "AFK",
+              "detail": "Fique na Câmara AFK entre sessões para ganhar recursos passivos"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guia de progressão de Undertale Adventures X",
+          "description": "Como fortalecer seu elenco com level, Almas, evolução e prioridades de melhoria sensatas sem desperdiçar materiais raros.",
+          "href": "/progression/undertale-adventures-x-fastest-way-to-evolve-units",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Guarde uma reserva de Almas antes de chegar um novo banner ou conteúdo"
+            },
+            {
+              "label": "2",
+              "detail": "Suba o nível das unidades na forma atual antes de pagar pela evolução"
+            },
+            {
+              "label": "3",
+              "detail": "Evolua só as unidades que você pretende manter no time principal"
+            },
+            {
+              "label": "4",
+              "detail": "Gaste Rerolls de Traço em unidades principais consolidadas, não em preenchimentos temporários"
+            },
+            {
+              "label": "5",
+              "detail": "Farme Raids por Tokens e fique na Câmara AFK para ganhos passivos"
+            },
+            {
+              "label": "6",
+              "detail": "Reavalie o elenco depois de cada ajuste de balanceamento ou atualização de conteúdo"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre Undertale Adventures X.",
+      "items": [
+        {
+          "question": "O que é Undertale Adventures X?",
+          "answer": "Undertale Adventures X é um jogo de tower defense do Roblox grátis da Side Productions. Você defende uma base das ondas de monstros usando unidades inspiradas em Undertale, depois melhora, evolui e rerolla traços para limpar capítulos mais difíceis."
+        },
+        {
+          "question": "Qual é o único código de Undertale Adventures X que funciona agora?",
+          "answer": "MOREFREESTUFF é o único código ativo de Undertale Adventures X. Ele concede 25 rerolls de traço, 3 Mãos de Gaster e 1.000 Almas. Códigos podem expirar horas depois do lançamento, então resgate qualquer novidade no mesmo dia em que encontrar."
+        },
+        {
+          "question": "Como resgatar códigos de Undertale Adventures X?",
+          "answer": "Fique no lobby principal, clique no botão de Códigos, digite o código exatamente como aparece e confirme. Aperte Enter no PC, A no Xbox, X no PlayStation ou toque fora da caixa no celular para resgatar as recompensas."
+        },
+        {
+          "question": "Quais são as melhores unidades de Undertale Adventures X?",
+          "answer": "As tier lists da comunidade colocam Sans, Asriel, Mettaton NEO, Undyne the Undying e Papyrus na faixa mais alta em suas funções. Asgore, Muffet e Mettaton EX são as substituições nomeadas se você não tem um pick de tier S."
+        },
+        {
+          "question": "Undertale Adventures X é grátis?",
+          "answer": "Sim. Undertale Adventures X é uma experiência gratuita do Roblox, e qualquer gasto além disso é opcional, como o gamepass que aumenta os Tokens ganhos no modo Raids."
+        },
+        {
+          "question": "Com que frequência Undertale Adventures X é atualizado?",
+          "answer": "Undertale Adventures X não tem um calendário publicado. Hotfixes de emergência chegam rápido, enquanto ajustes de balanceamento e conteúdos dependem dos desenvolvedores e costumam estar ligados a eventos, marcos ou feedback da comunidade."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar Undertale Adventures X?",
+      "description": "Da sua primeira onda de monstros às fases de chefe do fim de jogo, nossa wiki da comunidade cobre você com códigos grátis e atualizados, tier lists de unidades e guias de progressão.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guias de Undertale Adventures X",
+    "overviewDescription": "Guias passo a passo de Undertale Adventures X para as lutas que travam a maioria dos jogadores, da rota de iniciante e o Ato 1 do Corredor Neutro até o Último Corredor, o Modo Difícil e a cadeia completa de evolução mítica."
+  },
+  "characters": {
+    "overviewTitle": "Unidades e personagens de Undertale Adventures X",
+    "overviewDescription": "Todas as unidades de Undertale Adventures X em um só lugar: funções do elenco completo, caminhos de evolução, showcases e dicas de traços para Sans, Corridor Dust Sans, Core Sans, Delta Sans, Swap Papyrus e o resto do elenco do Subterrâneo."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas e traços de Undertale Adventures X",
+    "overviewDescription": "Entenda os sistemas por trás de Undertale Adventures X: evolução e almas, unidades shiny e limitadas, chances de invocação e rerolls, a tier list de unidades, as torres do battlepass e as unidades iniciais que vale a pena construir primeiro."
+  },
+  "modes": {
+    "overviewTitle": "Modos de jogo de Undertale Adventures X",
+    "overviewDescription": "Complete todos os modos de Undertale Adventures X: runs no Corredor, Raid Atos 1-3, Genocídio de Snowdin e Hotland Ato 6 e Modo Infinito, com os times e a ordem de melhorias que cada um exige."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Undertale Adventures X",
+    "overviewDescription": "Todos os códigos ativos de Undertale Adventures X com as almas, rerolls e traços grátis que eles concedem, além de como resgatá-los e como diferenciar um código válido de um expirado."
+  },
+  "progression": {
+    "overviewTitle": "Progressão em Undertale Adventures X",
+    "overviewDescription": "Progressão de longo prazo em Undertale Adventures X: o jeito mais rápido de evoluir unidades, as melhores composições de time, clears sem unidades limitadas e o calendário de atualizações que decide quando guardar ou gastar suas almas."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Undertale Adventures X Wiki",
+    "about": "A Undertale Adventures X Wiki é um hub de guias independente feito por fãs, cobrindo códigos ativos, tier lists de unidades, traços, melhores unidades e guias para iniciantes deste jogo de tower defense do Roblox.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Undertale Adventures X Wiki. Sem afiliação com a Side Productions ou o Roblox.",
+    "description": "Tower defense grátis com tema de Undertale no Roblox. Invoque unidades, melhore traços e limpe todas as fases.",
+    "playGame": "Jogar Undertale Adventures X",
+    "officialDiscord": "Comunidade no Roblox",
+    "officialYoutube": "Vídeos no YouTube",
+    "beginnerGuide": "Guia para iniciantes",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "unitGuides": "Unidades e personagens",
+    "tierList": "Tier list de unidades",
+    "gameModes": "Modos de jogo",
+    "codes": "Códigos"
+  }
+}

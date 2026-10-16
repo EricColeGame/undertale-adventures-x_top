@@ -255,14 +255,38 @@ const GROUP_TITLES_JA: Record<string, string> = {
   progression: "育成 & 進行",
 };
 
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Primeros pasos",
+  characters: "Unidades y personajes",
+  mechanics: "Mecánicas y rasgos",
+  modes: "Modos de juego",
+  codes: "Códigos",
+  progression: "Progresión",
+};
+
+// 巴西葡萄牙语分组标题映射
+const GROUP_TITLES_PT_BR: Record<string, string> = {
+  guide: "Primeiros passos",
+  characters: "Unidades e personagens",
+  mechanics: "Mecânicas e traços",
+  modes: "Modos de jogo",
+  codes: "Códigos",
+  progression: "Progressão",
+};
+
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
+  es: GROUP_TITLES_ES,
   ja: GROUP_TITLES_JA,
+  "pt-BR": GROUP_TITLES_PT_BR,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
+  es: "Resumen",
   ja: "一覧",
+  "pt-BR": "Visão geral",
 };
 
 // 分组排序顺序

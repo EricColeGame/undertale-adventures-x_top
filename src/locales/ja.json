@@ -1,1 +1,521 @@
-{}
+{
+  "site": {
+    "name": "Undertale Adventures X Wiki",
+    "shortName": "Undertale Adventures X",
+    "tagline": "コード、ユニットTierリスト、特性、初心者ガイド",
+    "description": "RobloxのUndertale Adventures X完全ガイド。有効コード、ユニットTierリスト、特性、最強ユニット、初心者ガイド、育成のコツまで、Undertaleテーマのタワーディフェンスを徹底解説します。",
+    "legalNotice": "非公式のファンwikiです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替",
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "mechanics": "システム",
+    "modes": "モード",
+    "codes": "コード",
+    "progression": "育成"
+  },
+  "home": {
+    "meta": {
+      "title": "Undertale Adventures X Wiki — コード・ユニット・Tierリスト",
+      "description": "RobloxのタワーディフェンスゲームUndertale Adventures Xのコード、ユニットTierリスト、特性、初心者ガイド、育成のコツをまとめました。ユニットとアップグレードも解説します。"
+    },
+    "hero": {
+      "eyebrow": "Undertaleテーマのタワーディフェンス",
+      "title": "Undertale Adventures X Wiki",
+      "description": "Robloxのタワーディフェンスゲームで、モンスターの波から拠点を守りましょう。Undertaleにインスパイアされたユニットを召喚し、チームを強化し、特性を伸ばして難関ステージを攻略します。",
+      "stats": [
+        "累計訪問 1,770万回以上",
+        "2024年7月16日 リリース",
+        "Robloxタワーディフェンス",
+        "Undertaleテーマのユニット"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "ユニットTierリスト",
+      "tertiaryCta": "有効コード",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Undertale Adventures X の歩き方",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "配置・強化・防衛の基本ループを学び、レアユニットを追う前に現実的な序盤ルートを選びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "コード一覧",
+          "description": "MOREFREESTUFFをはじめ、今後配布されるUndertale Adventures Xのコードで、ソウル・特性リロール・Gaster Handsを無料で入手できます。"
+        },
+        {
+          "number": "3",
+          "title": "序盤のおすすめユニット",
+          "description": "範囲ダメージ、単体ボス処理、前線ユニットのバランスを整え、最初のプレイで敵を通さないようにしましょう。"
+        },
+        {
+          "number": "4",
+          "title": "進化のやり方",
+          "description": "ソウルとユニット素材を、一時的なレベル上げではなく進化によって恒久的な戦力アップに変えましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題",
+      "quickLinks": [
+        "有効コード",
+        "ユニットTierリスト",
+        "序盤のおすすめユニット",
+        "進化ガイド"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初の十数回のUndertale Adventures Xを支える、配置・強化・周回の基本ループ。",
+          "href": "/guide/undertale-adventures-x-beginner-guide"
+        },
+        {
+          "badge": "更新済み",
+          "title": "有効コード",
+          "description": "使えるUndertale Adventures Xのコードと報酬、受け取り手順とトラブル対処。",
+          "href": "/codes/undertale-adventures-x-codes"
+        },
+        {
+          "badge": "更新済み",
+          "title": "ユニットTierリスト",
+          "description": "Sans、Asriel、Mettaton NEOなど、各ユニットが実際に担う役割で並べたTierリスト。",
+          "href": "/mechanics/undertale-adventures-x-unit-tier-list"
+        },
+        {
+          "badge": "人気",
+          "title": "序盤のおすすめユニット",
+          "description": "手頃な序盤ユニットと、新しいチームでもレーンを守り続けられる役割バランス。",
+          "href": "/mechanics/undertale-adventures-x-best-starter-units"
+        },
+        {
+          "badge": "人気",
+          "title": "進化ガイド",
+          "description": "レベル上げ・進化・特性リロールの重なり方と、ソウルを無駄にしない使い道。",
+          "href": "/mechanics/undertale-adventures-x-evolution-guide"
+        },
+        {
+          "badge": "新着",
+          "title": "ユニット一覧",
+          "description": "プレイ可能なUndertaleインスパイアのユニット一覧と、各キャラクターが担う役割。",
+          "href": "/characters/undertale-adventures-x-all-units"
+        },
+        {
+          "badge": "新着",
+          "title": "エンドレスモード",
+          "description": "ウェーブのスケーリング、編成、特性で、Undertale Adventures Xのエンドレスをより深く攻略。",
+          "href": "/modes/undertale-adventures-x-endless-mode"
+        },
+        {
+          "badge": "人気",
+          "title": "アップデート予定",
+          "description": "パッチやバランス調整、コード配布によってロスターの狙いがどう変わるか。",
+          "href": "/progression/undertale-adventures-x-update-schedule"
+        },
+        {
+          "badge": "新着",
+          "title": "回廊ガイド",
+          "description": "中立回廊 Act 1 の編成、リーダーバフ、経済プランでクリーンにクリア。",
+          "href": "/modes/undertale-adventures-x-corridor-guide"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Undertale Adventures Xとは？",
+      "paragraphs": [
+        "Undertale Adventures Xは、Side ProductionsによるRobloxのタワーディフェンスゲームで、地下世界とそのキャラクターたちを配置可能なユニットとして再構築しています。レーンに沿ってキャラクターを配置すると、迫るモンスターの波を自動で攻撃し、敵が拠点に到達する前に試合内通貨で強化していきます。",
+        "試合の合間には恒久的な資源を集め、ソウルで新ユニットを召喚し、より強い姿へ進化させ、特性をリロールして上限を引き上げます。当wikiでは、コード、ユニットTierリスト、進化解説、手順つきの育成ガイドで全システムを網羅します。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Side Productions"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "タワーディフェンス"
+        },
+        {
+          "label": "リリース日",
+          "value": "2024年7月16日"
+        },
+        {
+          "label": "累計訪問数",
+          "value": "17.7M+"
+        },
+        {
+          "label": "サーバー人数",
+          "value": "15人"
+        },
+        {
+          "label": "高評価率",
+          "value": "93%"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Undertale Adventures X Wikiを探す",
+      "description": "使えるコード、ユニットTierリスト、進化と特性のガイド、初心者向けチュートリアル、育成のコツまで、RobloxのタワーディフェンスゲームUndertale Adventures Xを徹底解説します。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Undertale Adventures X コード",
+          "description": "最新の使えるコードでソウル、特性リロール、Gaster Handsを無料入手し、期限切れ前に受け取る方法を解説します。",
+          "href": "/codes/undertale-adventures-x-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "MOREFREESTUFF",
+              "detail": "特性リロール25回、Gaster Hands 3個、ソウル1,000個",
+              "badge": "有効"
+            },
+            {
+              "label": "Gaster Hands",
+              "detail": "コードに付属するレアなボーナスアイテム。受け取り後は持ち物を確認しましょう",
+              "badge": "レア"
+            },
+            {
+              "label": "受け取る",
+              "detail": "メインロビーのコードボタンを開き、コードを入力して確定すると受け取れます",
+              "badge": "やり方"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Undertale Adventures X Tierリスト",
+          "description": "範囲ダメージやボス処理から妨害、前線の耐久まで、各キャラクターが担う役割ごとのユニット評価。",
+          "href": "/mechanics/undertale-adventures-x-unit-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Sans、Asriel、Mettaton NEO、Undyne the Undying、Papyrus — 役割ごとの最上位帯"
+            },
+            {
+              "label": "A",
+              "detail": "Asgore、Muffet、Mettaton EX — S帯が欠けているときの指名の代役"
+            },
+            {
+              "label": "B",
+              "detail": "TemmieとGreater Dog — 活躍できる場面が明確な序盤・状況依存の選択肢"
+            },
+            {
+              "label": "C",
+              "detail": "序盤のアクトを攻略し、その後は入れ替わる初心者向け・役割補完のユニット"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Undertale Adventures X 初心者ガイド",
+          "description": "配置、強化、周回ルート、特性、召喚の優先順位を扱う、序盤の手順つき攻略。",
+          "href": "/guide/undertale-adventures-x-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "数よりもカバレッジを意識して配置し、敵の主要ルートに重ねる"
+            },
+            {
+              "label": "2",
+              "detail": "新しいユニットを足す前に、最も優秀なダメージ源を強化する"
+            },
+            {
+              "label": "3",
+              "detail": "無理なくクリアできるステージを周回し、次の強化資金にする"
+            },
+            {
+              "label": "4",
+              "detail": "1ステージずつ進め、失敗した原因の穴を具体的に埋める"
+            },
+            {
+              "label": "5",
+              "detail": "特性はコアチームが安定してから回す"
+            },
+            {
+              "label": "6",
+              "detail": "コードは早めに受け取り、無料のソウルと特性リロールで序盤を加速する"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Undertale Adventures X 最強ユニット",
+          "description": "ダメージ性能、戦闘での役割、バランスの取れたUndertale Adventures Xチームとの相性で比較した注目ユニット。",
+          "href": "/mechanics/undertale-adventures-x-best-starter-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sans",
+              "detail": "範囲ダメージと妨害で、まとまったウェーブへの定番の答え"
+            },
+            {
+              "label": "Asriel",
+              "detail": "集団にもボスにも有効な、柔軟な範囲ダメージ"
+            },
+            {
+              "label": "Mettaton",
+              "detail": "高HPの敵に強い、単体ボス処理の第一人者"
+            },
+            {
+              "label": "Undyne",
+              "detail": "後衛が働く間レーンを支える、耐久力のある前線ダメージ"
+            },
+            {
+              "label": "Papyrus",
+              "detail": "終盤のアクト向けの妨害とスケーリングダメージ"
+            },
+            {
+              "label": "Asgore",
+              "detail": "タンク兼単体近接で、前線枠の控え"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Undertale Adventures X 特性ガイド",
+          "description": "特性とリロールがユニットの上限をどう上げるか、役割ごとに残すべき特性、レアなリロールを無駄にしない使い方を解説します。",
+          "href": "/mechanics/undertale-adventures-x-evolution-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "リロール",
+              "detail": "ユニットの特性をリロールしてステータスを伸ばせる。進化と違い何度でも可能"
+            },
+            {
+              "label": "ダメージ",
+              "detail": "アタッカーにはダメージ、攻撃速度、射程を上げる特性を残す"
+            },
+            {
+              "label": "補助",
+              "detail": "バッファーには効果時間と範囲を残し、無駄なステータスの特性はリロールする"
+            },
+            {
+              "label": "経済",
+              "detail": "序盤の収入を加速し、ローテーションから外れたらその特性は外す"
+            },
+            {
+              "label": "シャイニー",
+              "detail": "シャイニーはステータスが倍率で伸びるため、強い特性が弱いシャイニーに勝ることもあります"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Undertale Adventures X ユニット & キャラクター",
+          "description": "プレイ可能なUndertaleインスパイアのロスターを、各キャラクターの役割と入手方法のメモつきで一覧にしました。",
+          "href": "/characters/undertale-adventures-x-all-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sans",
+              "detail": "ロスター最上位帯を支える範囲ダメージと妨害"
+            },
+            {
+              "label": "Papyrus",
+              "detail": "Snowdinバナーに紐づく終盤のスケーリングと妨害"
+            },
+            {
+              "label": "Temmie",
+              "detail": "序盤のアクトを攻略する、安価なガラスキャノン"
+            },
+            {
+              "label": "Undyne",
+              "detail": "圧力の高いレーンを支える耐久型の前線ダメージ"
+            },
+            {
+              "label": "Muffet",
+              "detail": "範囲ダメージの下準備として大群を遅らせる妨害"
+            },
+            {
+              "label": "GreaterDog",
+              "detail": "前線の選択肢がないときの低火力タンク"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Undertale Adventures X ゲームモード",
+          "description": "メインストーリーの章、レイド、回廊、エンドレス、ジェノサイドの各アクトを解説し、今のチームに合う内容を選べるようにします。",
+          "href": "/modes/undertale-adventures-x-endless-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ストーリー",
+              "detail": "初回クリア報酬と地域解放がある地下世界のメイン章"
+            },
+            {
+              "label": "レイド",
+              "detail": "Act 1〜3のボス挑戦で、ロスター育成用のトークンを獲得"
+            },
+            {
+              "label": "回廊",
+              "detail": "射程が火力に勝る長く狭いレーン。Mettaton NEOのリーダーバフがクリアを支える"
+            },
+            {
+              "label": "エンドレス",
+              "detail": "ロスター、特性、判断力を試すスケーリングウェーブ"
+            },
+            {
+              "label": "ジェノサイド",
+              "detail": "完成したチーム向けの、より難しいSnowdinとHotland Act 6"
+            },
+            {
+              "label": "AFK",
+              "detail": "セッションの合間にAFKチャンバーで放置し、受動的に資源を獲得"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Undertale Adventures X 育成ガイド",
+          "description": "レベル上げ、ソウル、進化、そしてレア素材を無駄にしない強化の優先順位でロスターを鍛える方法。",
+          "href": "/progression/undertale-adventures-x-fastest-way-to-evolve-units",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "新しいバナーやコンテンツが来る前にソウルを貯めておく"
+            },
+            {
+              "label": "2",
+              "detail": "進化に払う前に、現在の姿のままレベルを上げる"
+            },
+            {
+              "label": "3",
+              "detail": "メインチームで維持すると決めたユニットだけを進化させる"
+            },
+            {
+              "label": "4",
+              "detail": "特性リロールは一時的な穴埋めではなく、確立したコアユニットに使う"
+            },
+            {
+              "label": "5",
+              "detail": "トークンのためにレイドを周回し、AFKチャンバーで受動的に稼ぐ"
+            },
+            {
+              "label": "6",
+              "detail": "バランス調整やコンテンツ更新のたびにロスターを見直す"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Undertale Adventures Xについてよく寄せられる質問への手早い回答。",
+      "items": [
+        {
+          "question": "Undertale Adventures Xとは？",
+          "answer": "Undertale Adventures Xは、Side Productionsによる無料のRobloxタワーディフェンスゲームです。Undertaleにインスパイアされたユニットでモンスターの波から拠点を守り、強化・進化・特性リロールで難易度の高い章を攻略します。"
+        },
+        {
+          "question": "現在有効なUndertale Adventures Xのコードは？",
+          "answer": "MOREFREESTUFFが唯一の有効なUndertale Adventures Xコードです。特性リロール25回、Gaster Hands 3個、ソウル1,000個がもらえます。コードは配布から数時間で失効することもあるため、新しいものは見つけた当日に受け取りましょう。"
+        },
+        {
+          "question": "Undertale Adventures Xのコードの受け取り方は？",
+          "answer": "メインロビーに留まり、コードボタンをクリックし、表示どおり正確にコードを入力して確定します。PCはEnter、XboxはA、PlayStationはX、モバイルはボックス外をタップすると報酬を受け取れます。"
+        },
+        {
+          "question": "Undertale Adventures Xで最強のユニットは？",
+          "answer": "コミュニティのTierリストでは、Sans、Asriel、Mettaton NEO、Undyne the Undying、Papyrusが役割ごとの最上位に位置づけられています。S帯が欠けている場合は、Asgore、Muffet、Mettaton EXが指名の代役です。"
+        },
+        {
+          "question": "Undertale Adventures Xは無料で遊べますか？",
+          "answer": "はい。Undertale Adventures Xは無料のRoblox体験で、それ以上の課金は任意です（レイドモードのトークン獲得量を上げるゲームパスなど）。"
+        },
+        {
+          "question": "Undertale Adventures Xの更新頻度は？",
+          "answer": "Undertale Adventures Xに公開されたスケジュールはありません。緊急のホットフィックスはすぐ配信され、バランス調整やコンテンツ追加は開発主導で、イベントや節目、コミュニティの声に紐づくことが多いです。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Undertale Adventures Xを極める準備はできましたか？",
+      "description": "最初のモンスターの波から終盤のボスステージまで、無料で最新のコード、ユニットTierリスト、育成ガイドをコミュニティwikiがお届けします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Undertale Adventures X ガイド",
+    "overviewDescription": "多くのプレイヤーがつまずく戦いを、初心者ルートと中立回廊 Act 1 からラスト回廊、ハードモード、神話級の進化チェーンまで手順つきで解説するUndertale Adventures Xガイド。"
+  },
+  "characters": {
+    "overviewTitle": "Undertale Adventures X ユニット & キャラクター",
+    "overviewDescription": "Undertale Adventures Xのユニットを一挙掲載。ロスター全体の役割、進化ルート、紹介、そしてSans、Corridor Dust Sans、Core Sans、Delta Sans、Swap Papyrusなど地下世界のキャストの特性アドバイス。"
+  },
+  "mechanics": {
+    "overviewTitle": "Undertale Adventures X システム & 特性",
+    "overviewDescription": "Undertale Adventures Xの仕組みを理解しましょう。進化とソウル、シャイニーと限定ユニット、召喚確率とリロール、ユニットTierリスト、バトルパスタワー、そして最初に育てるべき序盤ユニットを解説します。"
+  },
+  "modes": {
+    "overviewTitle": "Undertale Adventures X ゲームモード",
+    "overviewDescription": "Undertale Adventures Xの全モードを攻略。回廊、レイド Act 1〜3、SnowdinとHotland Act 6のジェノサイド、エンドレスモードまで、それぞれに必要な編成と強化順を解説します。"
+  },
+  "codes": {
+    "overviewTitle": "Undertale Adventures X コード",
+    "overviewDescription": "有効なUndertale Adventures Xコードと、もらえる無料ソウル・リロール・特性報酬の一覧。受け取り方と、有効なコードと失効したコードの見分け方も解説します。"
+  },
+  "progression": {
+    "overviewTitle": "Undertale Adventures X 育成",
+    "overviewDescription": "Undertale Adventures Xの長期的な育成。ユニットを最速で進化させる方法、最強のチーム編成、限定ユニットなしのクリア、そしてソウルを貯めるか使うかを決めるアップデート予定まで。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新済み",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "ヘルプが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Undertale Adventures X Wiki",
+    "about": "Undertale Adventures X Wikiは、このRobloxタワーディフェンスゲームの有効コード、ユニットTierリスト、特性、最強ユニット、初心者ガイドを扱う、ファンによる独立系ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Undertale Adventures X Wiki. Side ProductionsおよびRobloxとは無関係です。",
+    "description": "Robloxの無料Undertaleテーマのタワーディフェンス。ユニットを召喚し、特性を強化して全ステージを攻略しましょう。",
+    "playGame": "Undertale Adventures Xをプレイ",
+    "officialDiscord": "Robloxコミュニティ",
+    "officialYoutube": "YouTube動画",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "unitGuides": "ユニット & キャラクター",
+    "tierList": "ユニットTierリスト",
+    "gameModes": "ゲームモード",
+    "codes": "コード"
+  }
+}
